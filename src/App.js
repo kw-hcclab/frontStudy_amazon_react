@@ -1,5 +1,6 @@
 /* eslint-disable */
 import Header from "./Header";
+import Sidebar from "./Sidebar";
 import { Routes, Route, Link, useNavigate, Outlet } from "react-router-dom";
 import Profile from "./Profile/Profile";
 import Cart from "./Cart/Cart";
